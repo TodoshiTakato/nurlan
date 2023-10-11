@@ -1,58 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T12:58:55.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ZHEWUctTrJ5D17EZLuPN" version="21.6.8" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-10-11T11:42:29.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="21.6.9" etag="IQLI3kjjn2BK6baUO764" type="github">
+  <diagram name="Page-1" id="Y8z2_u395wLUsXpRZK2I">
+    <mxGraphModel>
       <root>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="RlvhzKiwTzvMFXuhWuTw-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="RlvhzKiwTzvMFXuhWuTw-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;api.php&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="40" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-0" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ClientsWebhookController::&lt;span style=&quot;color:#cf8e6d;&quot;&gt;class&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="40" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RlvhzKiwTzvMFXuhWuTw-3" target="RlvhzKiwTzvMFXuhWuTw-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RlvhzKiwTzvMFXuhWuTw-4" target="WIyWlLk6GJQsqaUBKTNV-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Telegram&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RlvhzKiwTzvMFXuhWuTw-7" target="RlvhzKiwTzvMFXuhWuTw-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;app/Providers/TelegramServiceProvider.php&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="120" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RlvhzKiwTzvMFXuhWuTw-9" target="RlvhzKiwTzvMFXuhWuTw-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;config/telegram.php&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="120" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RlvhzKiwTzvMFXuhWuTw-11" target="RlvhzKiwTzvMFXuhWuTw-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;routes/telegram/clients.php&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="960" y="120" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RlvhzKiwTzvMFXuhWuTw-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Commands&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1240" y="120" width="160" height="40" as="geometry" />
-        </mxCell>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
